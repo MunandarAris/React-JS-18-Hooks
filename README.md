@@ -1,7 +1,5 @@
 # 🥳 React JS Hooks 🥳
 
-#
-
 | Basic Hooks | Additional Hooks    | Library Hooks        |
 | ----------- | ------------------- | -------------------- |
 | useState    | useReducer          | useSyncExternalStore |
